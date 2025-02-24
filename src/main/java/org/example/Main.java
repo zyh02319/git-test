@@ -8,7 +8,16 @@ public class Main {
         System.out.println("修改了三次");
         System.out.println("修改了五次");
         System.out.println("修改了六次");
-        System.out.println(add(1, 2));
+        System.out.println("修改了六次");
+        System.out.println("修改了六次");
+        System.out.println("修改了六次");
+        System.out.println("修改了六次");
+        System.out.println("修改了六次");
+        System.out.println("修改了六次");
+        System.out.println("修改了六次");
+        System.out.println("修改了六次");
+        System.out.println("修改了六次");
+
     }
     public static int add(int a, int b) {
         return a + b;
